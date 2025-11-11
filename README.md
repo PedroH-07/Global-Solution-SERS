@@ -169,5 +169,3 @@ As soluções desenvolvidas são aplicáveis a diversos segmentos: escritórios 
 A análise demonstrou que a otimização energética em ambientes de trabalho híbridos representa uma oportunidade excepcional tanto do ponto de vista econômico quanto ambiental. Os resultados nos surpreenderam pela magnitude do potencial de economia identificado: um ROI de 83% ao ano com payback inferior a 1,5 anos raramente é encontrado em projetos de infraestrutura.
 
 Mais do que números, este projeto evidencia que a transição para o futuro do trabalho requer uma rethinking completo dos sistemas prediais. Não se trata apenas de economia de energia, mas de criar ambientes verdadeiramente adaptativos que respondem às necessidades reais dos usuários.
-
-A implementação das soluções propostas posiciona a organização na vanguarda da sustentabilidade corporativa, oferecendo um diferencial competitivo tangível em um mercado cada vez mais consciente da importância da responsabilidade ambiental.
